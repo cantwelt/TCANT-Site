@@ -1,4 +1,4 @@
 <?php
-phpinfo();
-echo "CHECK OUT THIS SUPER COOL SLOT I CREATED!";
+I broke php info
+//phpinfo();
  ?>
